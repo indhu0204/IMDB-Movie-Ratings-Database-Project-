@@ -1,0 +1,501 @@
+movie_id,title,genre,release_year,duration_minutes
+1,Why book,Horror,2017.0,141.0
+2,Capital opportunity near,Drama,1986.0,143.0
+3,Explain write performance,Horror,2023.0,81.0
+4,Build information relate,Animation,2020.0,134.0
+5,Out activity build tax,Thriller,1999.0,119.0
+6,Lay among provide,Romance,2023.0,171.0
+7,Success front,Thriller,2018.0,120.0
+8,Research network,Thriller,1996.0,137.0
+9,Drop almost candidate,Thriller,2005.0,123.0
+10,Service resource,Animation,1997.0,176.0
+11,Difficult movie administration,Sci-Fi,1991.0,164.0
+12,Ask those sell agree,Comedy,2008.0,140.0
+13,Level history,Thriller,1987.0,103.0
+14,Letter state,Drama,2021.0,133.0
+15,Wear approach risk tend,Animation,2015.0,120.0
+16,Quality husband exist,Action,1983.0,180.0
+17,Back,Sci-Fi,1995.0,136.0
+18,Project east car,Drama,2004.0,119.0
+19,Glass cause,Sci-Fi,2001.0,101.0
+20,Condition staff,Animation,1984.0,168.0
+21,Investment add action,Thriller,1994.0,86.0
+22,Rule everybody,Animation,2016.0,98.0
+23,Base half look,Animation,1994.0,166.0
+24,Travel interesting,Comedy,1981.0,100.0
+25,Nice painting themselves,Romance,1998.0,179.0
+26,Keep everything,Comedy,2002.0,132.0
+27,Customer top determine,Thriller,2013.0,135.0
+28,State miss catch,Horror,1998.0,94.0
+29,Plant evidence,Thriller,2016.0,164.0
+30,Among state,Animation,1997.0,102.0
+31,Much concern,Drama,2020.0,130.0
+32,Number board help,Comedy,1981.0,180.0
+33,Whole indicate action,Sci-Fi,2014.0,86.0
+34,House site population class,Thriller,2012.0,90.0
+35,Part perform how,Horror,1994.0,91.0
+36,Station,Action,2011.0,154.0
+37,Ground without building,Thriller,2016.0,85.0
+38,Interest,Horror,2003.0,127.0
+39,National explain subject,Horror,2010.0,120.0
+40,Large board,Romance,1984.0,81.0
+41,Effect use various,Romance,1992.0,153.0
+42,Mission provide much specific,Comedy,1990.0,94.0
+43,Sport message,Comedy,1996.0,140.0
+44,Cause build,Animation,1983.0,89.0
+45,Research position three,Comedy,1993.0,103.0
+46,Into whatever million would,Action,1995.0,156.0
+47,Rest occur,Sci-Fi,2015.0,178.0
+48,Plant,Animation,1995.0,133.0
+49,Serve whether service,Thriller,2018.0,160.0
+50,Policy occur ahead,Romance,2017.0,173.0
+51,A avoid quality,Thriller,2024.0,113.0
+52,Green difficult together,Action,2015.0,137.0
+53,Foot common,Action,2025.0,151.0
+54,Hear face,Sci-Fi,1982.0,81.0
+55,Material field,Thriller,1996.0,136.0
+56,Feel,Thriller,2009.0,96.0
+57,Main base common,Sci-Fi,1991.0,141.0
+58,Clearly public on,Comedy,1988.0,165.0
+59,Student record,Action,2003.0,136.0
+60,Forget answer pressure,Comedy,2003.0,160.0
+61,Page story usually should,Romance,1993.0,98.0
+62,Tough color,Sci-Fi,1992.0,134.0
+63,Every along,Action,2015.0,148.0
+64,Race economic year,Romance,2007.0,107.0
+65,Research vote,Drama,2025.0,126.0
+66,Chair bed section,Sci-Fi,1993.0,92.0
+67,Some baby reason,Romance,1998.0,143.0
+68,Product I,Horror,1990.0,110.0
+69,Protect bit plant,Sci-Fi,2017.0,107.0
+70,Role name,Drama,2023.0,165.0
+71,Today threat,Sci-Fi,2004.0,170.0
+72,Safe town certain,Horror,2003.0,100.0
+73,Draw think,Sci-Fi,1994.0,172.0
+74,Quality decision million,Drama,1992.0,124.0
+75,Base sort different,Romance,1991.0,118.0
+76,Admit hold peace,Comedy,2024.0,92.0
+77,Beat style season,Comedy,2003.0,122.0
+78,Feel may leg,Sci-Fi,1980.0,129.0
+79,Exactly your,Romance,2022.0,167.0
+80,Party relate his,Animation,2016.0,140.0
+81,Action air able force,Romance,1995.0,102.0
+82,Course start,Horror,2016.0,123.0
+83,Fear outside,Comedy,2003.0,118.0
+84,Feel development would,Comedy,2006.0,162.0
+85,Reveal,Romance,2020.0,175.0
+86,Light coach skill,Drama,2021.0,178.0
+87,System face person,Action,1990.0,94.0
+88,Art step list,,2003.0,180.0
+89,Reach weight spring,Animation,2005.0,134.0
+90,Without other weight,Horror,1990.0,129.0
+91,Sell anyone public,Thriller,2002.0,133.0
+92,Ask increase,Romance,1989.0,97.0
+93,World environmental lose,Drama,2013.0,137.0
+94,Summer himself,Horror,1990.0,136.0
+95,Everything,Romance,1985.0,116.0
+96,Social concern,Comedy,1997.0,133.0
+97,Weight age,Action,2008.0,163.0
+98,Probably,Animation,2003.0,142.0
+99,Environment leave,Horror,2008.0,112.0
+100,Talk yet risk,Drama,1980.0,85.0
+101,Name,Thriller,1995.0,139.0
+102,Opportunity start business,Sci-Fi,2015.0,117.0
+103,Music have artist,Thriller,2006.0,161.0
+104,Head,Horror,2021.0,166.0
+105,Instead experience travel citizen,Thriller,2015.0,96.0
+106,Site do line,Animation,2014.0,179.0
+107,Maybe,Thriller,1989.0,174.0
+108,Poor she commercial,Animation,2010.0,149.0
+109,Third lot inside,Romance,2010.0,122.0
+110,Rock occur,Thriller,2021.0,125.0
+111,Necessary across,Action,1986.0,91.0
+112,Want nothing term,Animation,1987.0,161.0
+113,Half give,Sci-Fi,1984.0,98.0
+114,Rise he,Comedy,2004.0,89.0
+115,She,Horror,1997.0,94.0
+116,Agree tonight huge,Drama,1996.0,169.0
+117,Teacher indicate hit money,Sci-Fi,1994.0,174.0
+118,Which without arrive,Animation,1984.0,114.0
+119,Young probably other,Comedy,2022.0,89.0
+120,Age support send,Comedy,2011.0,177.0
+121,Stage look,Drama,2018.0,157.0
+122,Ability management,Horror,2006.0,158.0
+123,Consider leg draw share,Animation,1996.0,81.0
+124,Moment truth,Romance,2018.0,143.0
+125,Mean former,Comedy,1999.0,98.0
+126,As subject,Animation,2018.0,131.0
+127,Nearly hundred decide,Action,2017.0,
+128,Police month,Comedy,,173.0
+129,Rise hotel,Sci-Fi,1995.0,177.0
+130,Beautiful movement significant,Thriller,1982.0,174.0
+131,Help major,Thriller,2008.0,176.0
+132,Each hear kind,Horror,1985.0,166.0
+133,Appear night,Animation,1993.0,146.0
+134,Ten pressure,Horror,2013.0,174.0
+135,Outside something,Horror,1988.0,171.0
+136,Drug believe,Horror,2024.0,101.0
+137,Her ago,Comedy,1980.0,161.0
+138,Natural list score,Drama,2016.0,83.0
+139,Truth into Republican,Sci-Fi,1991.0,166.0
+140,Certainly allow should,Animation,1990.0,95.0
+141,Similar ahead,Animation,2001.0,
+142,Every hand,Horror,2002.0,141.0
+143,Minute national college,Comedy,2001.0,168.0
+144,Us work among,Comedy,1998.0,
+145,Available difficult,Comedy,2021.0,110.0
+146,Still here box,Horror,1983.0,124.0
+147,Baby,Drama,1982.0,171.0
+148,At often write,Animation,1995.0,87.0
+149,Suggest common education parent,Horror,2003.0,179.0
+150,Area prevent Mr boy,Horror,2010.0,151.0
+151,Study adult,Romance,2014.0,161.0
+152,For,Animation,1991.0,129.0
+153,Then,Comedy,1980.0,97.0
+154,Director discuss happy,Drama,2019.0,95.0
+155,Civil its majority,Sci-Fi,2006.0,138.0
+156,Seem probably,Comedy,1996.0,141.0
+157,Rather away wish,Horror,1987.0,162.0
+158,Notice nature society,Comedy,1984.0,97.0
+159,Pressure tend,Sci-Fi,2025.0,147.0
+160,Everyone authority third,Horror,1997.0,160.0
+161,Future like activity,Drama,2006.0,92.0
+162,Approach industry,Horror,2015.0,177.0
+163,Positive especially color,Animation,2002.0,122.0
+164,Decide officer pretty,Thriller,1986.0,168.0
+165,Many,Horror,2006.0,87.0
+166,Role fall,Thriller,2002.0,99.0
+167,Can,Animation,2022.0,105.0
+168,Fall give,Action,2000.0,153.0
+169,Certain act player chance,Thriller,2005.0,174.0
+170,Surface history very,Comedy,2017.0,144.0
+171,Western into,Comedy,1981.0,153.0
+172,Environment machine,Sci-Fi,2019.0,145.0
+173,Person work,Horror,2019.0,164.0
+174,Reality change range,Comedy,1997.0,170.0
+175,Mean,Drama,2014.0,116.0
+176,Government story weight,Thriller,1990.0,175.0
+177,Sure environment,Horror,2023.0,160.0
+178,Identify peace,Drama,1990.0,128.0
+179,May certain,Horror,2013.0,102.0
+180,Or evidence always,Thriller,1982.0,116.0
+181,Can quickly this,Drama,2011.0,102.0
+182,Organization oil hospital,Romance,2016.0,147.0
+183,Recently raise network,Drama,1997.0,178.0
+184,Subject reveal reach,Animation,2009.0,154.0
+185,Produce lawyer,Sci-Fi,2024.0,176.0
+186,Public over kind player,Horror,2024.0,93.0
+187,Society cell baby,Comedy,2001.0,177.0
+188,Happen truth central,Horror,2017.0,91.0
+189,Arm simple ask,Comedy,1988.0,92.0
+190,Everything break,Thriller,1986.0,85.0
+191,New without miss,Drama,2014.0,170.0
+192,Age impact ok,Sci-Fi,1997.0,152.0
+193,Budget just,Sci-Fi,2009.0,93.0
+194,History help carry,Sci-Fi,1985.0,98.0
+195,Citizen continue fall,Horror,1990.0,81.0
+196,Individual finally,Animation,2021.0,178.0
+197,Doctor left I,Horror,2024.0,100.0
+198,Everyone respond,Thriller,2009.0,163.0
+199,Range left present newspaper,Animation,1993.0,113.0
+200,Market or budget,Animation,1986.0,86.0
+201,Floor head,Animation,2019.0,171.0
+202,Serious chair,Thriller,2017.0,85.0
+203,One act nature,Action,2021.0,175.0
+204,Mouth language lay,Action,1991.0,94.0
+205,Often everything,Horror,2023.0,147.0
+206,Hotel protect support wear,Comedy,2010.0,148.0
+207,Billion,Comedy,2012.0,132.0
+208,Fear prepare,Comedy,1985.0,133.0
+209,Risk owner,Romance,1988.0,99.0
+210,Big message parent,Comedy,2002.0,102.0
+211,Cup once commercial,Sci-Fi,2015.0,169.0
+212,Executive summer Mr,Thriller,2010.0,85.0
+213,Identify,Drama,2004.0,130.0
+214,Education and item,Comedy,2002.0,164.0
+215,Decide PM,Action,2018.0,179.0
+216,Kitchen wide month,Sci-Fi,2012.0,153.0
+217,Team shake gas return,Comedy,1993.0,178.0
+218,Consider approach,Thriller,1995.0,140.0
+219,Spend budget,Animation,2013.0,172.0
+220,Effort history officer,Comedy,1998.0,161.0
+221,Money occur,Action,2006.0,129.0
+222,Religious side day,Thriller,2004.0,148.0
+223,Program million common,Comedy,1980.0,161.0
+224,Discussion dark federal,Drama,1993.0,123.0
+225,Institution season,Drama,2017.0,174.0
+226,Treatment another,Animation,1990.0,128.0
+227,Enter direction,Drama,2022.0,162.0
+228,Player place,Romance,2016.0,98.0
+229,Spend,Action,1989.0,140.0
+230,Attorney so measure,Horror,1997.0,170.0
+231,Republican entire,Sci-Fi,1993.0,83.0
+232,Size,Comedy,1991.0,153.0
+233,Every shoulder push,Drama,2011.0,165.0
+234,Lead most,Drama,1987.0,117.0
+235,Born always,Action,1980.0,116.0
+236,Position try series,Animation,2014.0,101.0
+237,During population trouble,Action,2017.0,104.0
+238,Call behavior,Drama,2021.0,107.0
+239,Ago list,Horror,2009.0,114.0
+240,Outside fast appear,Horror,2009.0,165.0
+241,What wait,Action,1993.0,119.0
+242,Magazine cost,Thriller,1987.0,96.0
+243,My old investment,Sci-Fi,1997.0,156.0
+244,Conference call,Horror,2011.0,178.0
+245,Receive skill,Comedy,1997.0,128.0
+246,Real up,Comedy,1986.0,137.0
+247,Something reach,Comedy,2011.0,161.0
+248,Behavior gas later,Comedy,1994.0,113.0
+249,Him threat your,Romance,2007.0,170.0
+250,Spring significant news,Comedy,2008.0,137.0
+251,Value just just,Animation,2007.0,141.0
+252,Term leave fight,Horror,2021.0,152.0
+253,Behind plant,Romance,1999.0,172.0
+254,Check now,Animation,1981.0,146.0
+255,Discuss stay,Horror,2022.0,142.0
+256,Loss mention yourself,Animation,2009.0,155.0
+257,Doctor significant check,Animation,2020.0,159.0
+258,Place about,Horror,1984.0,125.0
+259,Tonight him particular,Romance,2019.0,114.0
+260,Property if employee,Comedy,1989.0,160.0
+261,Window husband member,Sci-Fi,1995.0,164.0
+262,City western,Horror,2013.0,103.0
+263,Mission window present,Horror,1989.0,136.0
+264,Blood,Comedy,1996.0,100.0
+265,Site serve,Thriller,2001.0,89.0
+266,Safe,Comedy,2015.0,149.0
+267,Probably,Drama,2019.0,160.0
+268,Seem development,Sci-Fi,2002.0,174.0
+269,Put full,Drama,1995.0,155.0
+270,Character,Sci-Fi,2025.0,125.0
+271,Discussion call successful,Action,1993.0,152.0
+272,Camera rate,Romance,1997.0,178.0
+273,Recognize whatever find,Romance,2013.0,137.0
+274,Great black,Drama,2000.0,119.0
+275,Medical fire central,Action,1986.0,180.0
+276,Listen staff support,Horror,2014.0,95.0
+277,Heart group,Drama,1995.0,103.0
+278,Idea goal,Horror,2021.0,88.0
+279,Price would hotel,Sci-Fi,1986.0,126.0
+280,Often challenge,Action,2001.0,118.0
+281,Left just,Drama,2017.0,86.0
+282,Prepare identify speak,Horror,2011.0,157.0
+283,Attack none partner,Thriller,1988.0,102.0
+284,Less argue,Drama,1989.0,87.0
+285,Tough hope,Thriller,2021.0,98.0
+286,Writer back,Action,2018.0,178.0
+287,Mind there,Sci-Fi,2012.0,124.0
+288,Should thousand term,Horror,1988.0,115.0
+289,Thought pull relationship,Thriller,1987.0,84.0
+290,Growth agency civil,Action,2020.0,
+291,Many most condition,Sci-Fi,1992.0,145.0
+292,Dinner threat,Romance,2018.0,134.0
+293,It thousand,Action,2022.0,122.0
+294,Name moment,Comedy,1985.0,178.0
+295,Yourself,Romance,1998.0,173.0
+296,Piece picture,Comedy,2016.0,155.0
+297,Turn behind debate,Comedy,1995.0,94.0
+298,Describe actually chair,Action,2003.0,148.0
+299,You leg,Horror,2001.0,81.0
+300,Summer appear,Action,2020.0,172.0
+301,Industry especially toward,Horror,2003.0,95.0
+302,Take able story,Thriller,2006.0,152.0
+303,Person model,Sci-Fi,1993.0,90.0
+304,Nice whatever,Romance,2020.0,96.0
+305,Attack low heavy,Comedy,1994.0,98.0
+306,Red enjoy not,Romance,2013.0,98.0
+307,Through beyond defense from,Sci-Fi,2001.0,169.0
+308,Hold conference,Action,2022.0,159.0
+309,Power common fill,Horror,2020.0,171.0
+310,Laugh benefit approach,Comedy,1991.0,145.0
+311,Meeting dark six,Romance,2016.0,174.0
+312,But key,Horror,1993.0,100.0
+313,Walk money,Drama,2020.0,87.0
+314,Contain include small,Animation,2008.0,151.0
+315,Democratic seek arrive popular,Sci-Fi,2011.0,124.0
+316,Crime look either,Horror,1991.0,98.0
+317,Like example,Romance,1982.0,96.0
+318,Certainly senior,Drama,2000.0,87.0
+319,Building man however,Action,1987.0,99.0
+320,Imagine whether little,Horror,1997.0,115.0
+321,Card writer,Drama,1990.0,135.0
+322,What job fact,Comedy,,153.0
+323,School describe course,Horror,2023.0,91.0
+324,Rest same ever maybe,Comedy,1997.0,109.0
+325,Turn network,Action,1992.0,134.0
+326,Term early discuss recent,Romance,2011.0,88.0
+327,Major statement,Drama,1981.0,171.0
+328,Research throw,Sci-Fi,1999.0,117.0
+329,Offer car long,Drama,2017.0,177.0
+330,Never son specific age,Animation,1986.0,172.0
+331,Discover ten,Sci-Fi,1985.0,155.0
+332,Amount magazine,Drama,2012.0,99.0
+333,Interesting represent play,Animation,1994.0,113.0
+334,Tend very,Comedy,1984.0,166.0
+335,Sign at name,Action,1981.0,143.0
+336,Social opportunity increase,Drama,2008.0,149.0
+337,Bed,Romance,2002.0,83.0
+338,Month wish,Action,2003.0,175.0
+339,Tend bring,Animation,2015.0,119.0
+340,Out out institution,Sci-Fi,2008.0,112.0
+341,This writer,Drama,2002.0,111.0
+342,Method movement listen,Thriller,2010.0,107.0
+343,Form hard,Action,2004.0,115.0
+344,Reflect fact western,Animation,2003.0,175.0
+345,Summer memory,Animation,1983.0,105.0
+346,Able program,Thriller,2011.0,161.0
+347,Fall score,Animation,1990.0,132.0
+348,Own trouble mouth where,Animation,2016.0,91.0
+349,College food religious,Action,1998.0,163.0
+350,Admit everyone,Animation,1998.0,157.0
+351,Gas try body,Comedy,2019.0,171.0
+352,Public recognize,Horror,2009.0,104.0
+353,Appear,Comedy,1990.0,145.0
+354,Pressure run later,Thriller,1988.0,132.0
+355,Learn suffer five,Horror,1989.0,161.0
+356,Character economic,Comedy,2013.0,99.0
+357,Indeed base arrive,Romance,1993.0,120.0
+358,Minute purpose task board,Sci-Fi,1980.0,124.0
+359,About capital coach,Comedy,2016.0,131.0
+360,Threat today key,Sci-Fi,2006.0,102.0
+361,City anyone you,Sci-Fi,2003.0,94.0
+362,Century media,Horror,1994.0,180.0
+363,Marriage deep,Comedy,1990.0,130.0
+364,Green maintain,Thriller,1983.0,144.0
+365,Pick forget game,Animation,1990.0,109.0
+366,Risk buy trial,Thriller,2005.0,104.0
+367,Image keep affect,Sci-Fi,1999.0,137.0
+368,Chair government morning,Romance,1997.0,157.0
+369,Look,Drama,2005.0,113.0
+370,Detail group,Comedy,1988.0,117.0
+371,Only themselves suggest,Horror,1998.0,82.0
+372,Line natural,Sci-Fi,2023.0,167.0
+373,Skill professional yard,Comedy,2012.0,180.0
+374,Country such arrive,Drama,1992.0,104.0
+375,From money,Drama,1992.0,138.0
+376,American improve line,Action,1982.0,155.0
+377,Spend study forward,Horror,2014.0,89.0
+378,Hospital series father,Animation,2025.0,88.0
+379,Treatment type seek still,Comedy,1987.0,173.0
+380,Collection party,Romance,2024.0,114.0
+381,Us today,Animation,1986.0,93.0
+382,Wish sit,Action,2016.0,101.0
+383,Debate attention,Action,2024.0,80.0
+384,Include she participant,Sci-Fi,2009.0,163.0
+385,At discussion room,Romance,2011.0,109.0
+386,Because let,Comedy,1999.0,103.0
+387,Leave join,Action,2022.0,126.0
+388,Every bill scientist,Comedy,2000.0,147.0
+389,Opportunity world,Action,2004.0,83.0
+390,Get important,Sci-Fi,2001.0,171.0
+391,Market certainly decision,Thriller,1993.0,164.0
+392,Easy,Action,2001.0,81.0
+393,Interesting,Animation,2013.0,106.0
+394,Second white,Comedy,1983.0,91.0
+395,Performance catch term,Romance,2021.0,110.0
+396,Success why challenge challenge,Sci-Fi,1992.0,131.0
+397,Someone expect direction,Horror,1998.0,124.0
+398,Size state mouth thing,Thriller,2016.0,126.0
+399,Message indeed,Comedy,1990.0,98.0
+400,Social style skin,Romance,2022.0,180.0
+401,Order stage personal,Comedy,2008.0,173.0
+402,Style candidate,Comedy,1990.0,120.0
+403,Major less later,Thriller,2019.0,94.0
+404,Five,Romance,2015.0,166.0
+405,Out music find,Action,1984.0,123.0
+406,Such cell second,Sci-Fi,2010.0,95.0
+407,Arrive research compare goal,Drama,1986.0,144.0
+408,Congress individual,Drama,2002.0,148.0
+409,Finish difficult,Thriller,2022.0,116.0
+410,Beyond shoulder,Thriller,1988.0,89.0
+411,Whether must new,Action,2023.0,123.0
+412,Instead difference,Horror,2009.0,133.0
+413,Note across,Drama,1983.0,180.0
+414,Certain theory response civil,Horror,2017.0,123.0
+415,His these model,Action,1985.0,138.0
+416,Stock evidence billion,Action,1984.0,157.0
+417,Film question,Romance,2012.0,140.0
+418,All tree then,Romance,1986.0,106.0
+419,Newspaper may,Romance,1993.0,98.0
+420,Until make any,Romance,1990.0,143.0
+421,Community industry require,Thriller,1983.0,141.0
+422,Could become action,Horror,2021.0,124.0
+423,Majority adult,Sci-Fi,2001.0,172.0
+424,What six,Sci-Fi,2021.0,142.0
+425,Often discussion today,Comedy,2020.0,116.0
+426,Eye here choose,Horror,1989.0,109.0
+427,Consumer,Horror,1983.0,114.0
+428,Who brother marriage,Romance,2017.0,124.0
+429,Mission whose activity,Drama,2019.0,120.0
+430,Back,Action,2003.0,164.0
+431,Same last,Romance,2025.0,116.0
+432,Job place,Drama,1983.0,99.0
+433,Small should several,Romance,1982.0,140.0
+434,Newspaper thus product,Comedy,1988.0,136.0
+435,Change herself senior,Comedy,2011.0,116.0
+436,Car whole call,Action,2013.0,132.0
+437,Reason,Animation,2006.0,80.0
+438,Scene hit,Romance,2002.0,162.0
+439,Tv line,Comedy,2002.0,96.0
+440,Life word before,Drama,1988.0,125.0
+441,Government important join,Animation,2025.0,132.0
+442,Because allow professor,Action,2010.0,120.0
+443,Their through,Romance,2010.0,178.0
+444,Tv long treatment election,Comedy,2003.0,151.0
+445,Form window to,Thriller,1999.0,139.0
+446,Find interview,Comedy,1986.0,144.0
+447,Political on,,1997.0,115.0
+448,Stay image state beyond,Romance,2006.0,124.0
+449,Father opportunity,Sci-Fi,2005.0,107.0
+450,Learn international,Action,2005.0,88.0
+451,Easy card,Action,2008.0,113.0
+452,Leg organization,Thriller,1991.0,122.0
+453,Force page,Animation,1994.0,103.0
+454,Born film movement,Thriller,2000.0,119.0
+455,Develop skin same,Romance,2012.0,163.0
+456,Between fill,Animation,1990.0,173.0
+457,Reason pretty car,Action,1991.0,106.0
+458,Concern,Thriller,1993.0,114.0
+459,Five security,Romance,2004.0,122.0
+460,Job general,Romance,2005.0,136.0
+461,Although simply,Romance,2019.0,134.0
+462,Allow practice,Horror,2012.0,119.0
+463,Team per blue,Animation,1989.0,141.0
+464,Real since,Romance,1983.0,113.0
+465,Shake life those race,Action,2023.0,131.0
+466,Might,Action,1998.0,120.0
+467,Common less appear,Drama,1980.0,81.0
+468,Bit bad sell,Romance,2023.0,140.0
+469,Argue per open,Thriller,2003.0,165.0
+470,Pattern spring,Action,2007.0,171.0
+471,Edge quite,Romance,1982.0,89.0
+472,Rather human,Comedy,2005.0,126.0
+473,Team least,Thriller,2022.0,147.0
+474,Recent whom car,Thriller,1997.0,90.0
+475,Baby those,Romance,2015.0,139.0
+476,Check among wife,Action,1989.0,134.0
+477,Evening,Comedy,1987.0,164.0
+478,Create teach,Comedy,2011.0,113.0
+479,Try brother common,Romance,1985.0,95.0
+480,Large general tree,Action,2003.0,81.0
+481,Green push,Sci-Fi,1984.0,176.0
+482,Would year dream news,Animation,2010.0,117.0
+483,Reveal ever,Comedy,2014.0,169.0
+484,Country forget doctor,Animation,2004.0,119.0
+485,Set particular that,Animation,1995.0,
+486,Grow their where,Horror,2019.0,115.0
+487,Role new exactly,Action,2011.0,87.0
+488,Serious yes program exactly,Drama,1981.0,85.0
+489,Defense,Animation,1980.0,134.0
+490,She wind evidence,Romance,2000.0,135.0
+491,Probably door,Animation,1991.0,137.0
+492,Great whose think,Comedy,1996.0,180.0
+493,Blood,Thriller,2006.0,116.0
+494,Ready first,Romance,2003.0,97.0
+495,Identify common,Animation,1984.0,155.0
+496,Others ask,Animation,2023.0,151.0
+497,Candidate newspaper,Sci-Fi,2009.0,145.0
+498,Administration these explain,Horror,2001.0,148.0
+499,Relationship loss,Action,1996.0,81.0
+500,During spring democratic,Action,2012.0,139.0
